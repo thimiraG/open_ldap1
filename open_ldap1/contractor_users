@@ -1,0 +1,176 @@
+dn: uid=Sean,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sean
+sn: Parr
+mail: sean.parr@lt.com
+mobile: 94771111145
+homePhonePhone: 940112820035
+street: Johannesburg
+uid: Sean
+
+dn: uid=Warren,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Warren
+sn: Ferguson
+mail: warren.ferguson@lt.com
+mobile: 94771111146
+homePhone: 940112820036
+street: Johannesburg
+uid: Warren
+
+dn: uid=Gabrielle,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Vaughan
+mail: gabrielle.vaughan@lt.com
+mobile: 94771111147
+homePhone: 940112820037
+street: Colombo
+uid: Gabrielle
+
+dn: uid=Wendy,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Wendy
+sn: Davidson
+mail: wendy.davidson@lt.com
+mobile: 94771111148
+homePhone: 940112820038
+street: Colombo
+uid: Wendy
+
+dn: uid=Alison,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Alison
+sn: Hart
+mail: alison.hart@lt.com
+mobile: 94771111149
+homePhone: 940112820039
+street: Colombo
+uid: Alison
+
+dn: uid=Jane,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Forsyth
+mail: jane.forsyth@lt.com
+mobile: 94771111150
+homePhone: 940112820040
+street: New York
+uid: Jane
+
+dn: uid=Ella,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ella
+sn: Allan
+mail: ella.allan@lt.com
+mobile: 94771111151
+homePhone: 940112820041
+street: New York
+uid: Ella
+
+dn: uid=Paul,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Paul
+sn: Black
+mail: paul.black@lt.com
+mobile: 94771111152
+homePhone: 940112820042
+street: New York
+uid: Paul
+
+dn: uid=Natalie,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Natalie
+sn: Greene
+mail: natalie.greene@lt.com
+mobile: 94771111153
+homePhone: 940112820043
+street: Moscow
+uid: Natalie
+
+dn: uid=Sophie,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sophie
+sn: King
+mail: sophie.king@lt.com
+mobile: 94771111154
+homePhone: 940112820044
+street: Moscow
+uid: Sophie
+
+dn: uid=James,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: James
+sn: Scott
+mail: james.scott@lt.com
+mobile: 94771111155
+homePhone: 940112820045
+street: Moscow
+uid: James
+
+dn: uid=Jane,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Brown
+mail: jane.brown@lt.com
+mobile: 94771111156
+homePhone: 940112820046
+street: Moscow
+uid: Jane
+
+dn: uid=Kevin,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Kevin
+sn: Rees
+mail: kevin.rees@lt.com
+mobile: 94771111157
+homePhone: 940112820047
+street: Moscow
+uid: Kevin
+
+dn: uid=Brandon,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Brandon
+sn: MacDonald
+mail: brandon.macdonald@lt.com
+mobile: 94771111158
+homePhone: 940112820048
+street: Amsterdam
+uid: Brandon
+
+dn: uid=Olivia,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Olivia
+sn: Gill
+mail: olivia.gill@lt.com
+mobile: 94771111159
+homePhone: 940112820049
+street: Amsterdam
+uid: Olivia
+
+dn: uid=Lisa,ou=conractor,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Lisa
+sn: McLean
+mail: lisa.mclean@lt.com
+mobile: 94771111160
+homePhone: 940112820050
+street: Amsterdam
+uid: Lisa
+
