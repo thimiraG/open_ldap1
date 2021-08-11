@@ -1,0 +1,6 @@
+dn: cn=replicationuser,dc=ltacademy,dc=com
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: replicationuser
+description: LDAP Replication User
+userPassword: 123123
